@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	10076AD015621375000486E9 /* playGameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	104604CD15817F5B008A3BEB /* PG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PG;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	104604E715817F64008A3BEB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	104604E815817F64008A3BEB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	10777CDE1582B12B002FCCDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10E2C151155F8D3200483595 /* ViewController.h */;
+		name = "ViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 3;
+	};
+	10777CE01582B12B002FCCDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10076AD015621375000486E9 /* playGameViewController.h */;
+		name = "playGameViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	10777CEB1582B157002FCCDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10076AD015621375000486E9 /* playGameViewController.h */;
+		name = "playGameViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	10E2C12F155F8D3100483595 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 104604CD15817F5B008A3BEB /* PG */;
+		activeTarget = 10E2C137155F8D3100483595 /* PG */;
+		codeSenseManager = 104604E815817F64008A3BEB /* Code sense */;
+		executables = (
+			104604CD15817F5B008A3BEB /* PG */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 360886607;
+			PBXWorkspaceStateSaveDate = 360886607;
+		};
+		perUserProjectItems = {
+			10777CDE1582B12B002FCCDA /* PBXTextBookmark */ = 10777CDE1582B12B002FCCDA /* PBXTextBookmark */;
+			10777CE01582B12B002FCCDA /* PBXTextBookmark */ = 10777CE01582B12B002FCCDA /* PBXTextBookmark */;
+			10777CEB1582B157002FCCDA /* PBXTextBookmark */ = 10777CEB1582B157002FCCDA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 104604E715817F64008A3BEB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	10E2C137155F8D3100483595 /* PG */ = {
+		activeExec = 0;
+		executables = (
+			104604CD15817F5B008A3BEB /* PG */,
+		);
+	};
+	10E2C151155F8D3200483595 /* ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 558}";
+		};
+	};
+	10E2C158155F8D3200483595 /* PGTests */ = {
+		activeExec = 0;
+	};
+}
